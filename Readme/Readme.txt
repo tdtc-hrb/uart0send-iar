@@ -5,7 +5,7 @@ Download: http://files.iar.com/ftp/pub/box/CD-EWARM-6405-4275.zip
 ========================================================================
 About the PC serial port debug tool
 
-See: http://blog.csdn.net/xiaobin_hlj80/article/details/42848701
+See: https://tdtc-hrb.github.io/csdn/post/vc-serial_communication/
 
 ========================================================================
 About jumpers
